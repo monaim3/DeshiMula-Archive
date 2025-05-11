@@ -1,0 +1,182 @@
+[
+  {
+    "product_id": "P1001",
+    "product_title": "Wireless Bluetooth Headphones",
+    "product_image": "https://example.com/images/headphones.jpg",
+    "category": "Electronics",
+    "price": 49.99,
+    "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+    "Specification": [
+      { "key": "Battery Life", "value": "20 hours" },
+      { "key": "Connectivity", "value": "Bluetooth 5.0" }
+    ],
+    "availability": true,
+    "rating": 4.5,
+    "brand": "SoundMax"
+  },
+  {
+    "product_id": "P1002",
+    "product_title": "Ergonomic Office Chair",
+    "product_image": "https://example.com/images/chair.jpg",
+    "category": "Furniture",
+    "price": 129.99,
+    "description": "Comfortable and adjustable office chair with lumbar support.",
+    "Specification": [
+      { "key": "Material", "value": "Mesh & Metal" },
+      { "key": "Max Load", "value": "120kg" }
+    ],
+    "availability": false,
+    "rating": 4.2,
+    "brand": "ComfortSeating"
+  },
+  {
+    "product_id": "P1003",
+    "product_title": "Stainless Steel Water Bottle",
+    "product_image": "https://example.com/images/bottle.jpg",
+    "category": "Accessories",
+    "price": 15.99,
+    "description": "Eco-friendly water bottle with double-wall insulation.",
+    "Specification": [
+      { "key": "Capacity", "value": "750ml" },
+      { "key": "Material", "value": "Stainless Steel" }
+    ],
+    "availability": true,
+    "rating": 4.8,
+    "brand": "EcoGear"
+  },
+  {
+    "product_id": "P1004",
+    "product_title": "Smart Fitness Band",
+    "product_image": "https://example.com/images/fitnessband.jpg",
+    "category": "Wearables",
+    "price": 29.99,
+    "description": "Track your fitness metrics with this smart band.",
+    "Specification": [
+      { "key": "Display", "value": "OLED" },
+      { "key": "Battery Life", "value": "10 days" }
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "FitTrack"
+  },
+  {
+    "product_id": "P1005",
+    "product_title": "Portable Laptop Stand",
+    "product_image": "https://example.com/images/laptopstand.jpg",
+    "category": "Accessories",
+    "price": 24.99,
+    "description": "Aluminum stand to support laptops and enhance airflow.",
+    "Specification": [
+      { "key": "Material", "value": "Aluminum" },
+      { "key": "Adjustable", "value": "Yes" }
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "LiftDesk"
+  },
+  {
+    "product_id": "P1006",
+    "product_title": "Gaming Mouse RGB",
+    "product_image": "https://example.com/images/gamingmouse.jpg",
+    "category": "Gaming",
+    "price": 39.99,
+    "description": "Precision gaming mouse with customizable RGB lighting.",
+    "Specification": [
+      { "key": "DPI", "value": "16000" },
+      { "key": "Buttons", "value": "7 Programmable" }
+    ],
+    "availability": true,
+    "rating": 4.7,
+    "brand": "ProGamer"
+  },
+  {
+    "product_id": "P1007",
+    "product_title": "4K UHD Monitor 27-inch",
+    "product_image": "https://example.com/images/monitor.jpg",
+    "category": "Electronics",
+    "price": 299.99,
+    "description": "Crisp 4K monitor with IPS panel and slim bezels.",
+    "Specification": [
+      { "key": "Resolution", "value": "3840x2160" },
+      { "key": "Panel Type", "value": "IPS" }
+    ],
+    "availability": false,
+    "rating": 4.4,
+    "brand": "VisionTek"
+  },
+  {
+    "product_id": "P1008",
+    "product_title": "Smart LED Light Bulb",
+    "product_image": "https://example.com/images/smartbulb.jpg",
+    "category": "Home Automation",
+    "price": 12.49,
+    "description": "Control your lights with your smartphone or voice assistant.",
+    "Specification": [
+      { "key": "Wattage", "value": "9W" },
+      { "key": "Voice Control", "value": "Yes" }
+    ],
+    "availability": true,
+    "rating": 4.1,
+    "brand": "BrightHome"
+  },
+  {
+    "product_id": "P1009",
+    "product_title": "Electric Kettle",
+    "product_image": "https://example.com/images/kettle.jpg",
+    "category": "Kitchen",
+    "price": 27.89,
+    "description": "Quick-boil electric kettle with auto shut-off feature.",
+    "Specification": [
+      { "key": "Capacity", "value": "1.7L" },
+      { "key": "Power", "value": "1500W" }
+    ],
+    "availability": true,
+    "rating": 4.0,
+    "brand": "KitchenPro"
+  },
+  {
+    "product_id": "P1010",
+    "product_title": "Noise Cancelling Earbuds",
+    "product_image": "https://example.com/images/earbuds.jpg",
+    "category": "Electronics",
+    "price": 59.99,
+    "description": "Compact earbuds with superior noise cancellation.",
+    "Specification": [
+      { "key": "Play Time", "value": "30 hours" },
+      { "key": "Water Resistant", "value": "IPX5" }
+    ],
+    "availability": true,
+    "rating": 4.6,
+    "brand": "SilentBeats"
+  },
+  {
+    "product_id": "P1011",
+    "product_title": "Mechanical Keyboard",
+    "product_image": "https://example.com/images/keyboard.jpg",
+    "category": "Computers",
+    "price": 69.99,
+    "description": "RGB mechanical keyboard with customizable keys.",
+    "Specification": [
+      { "key": "Switch Type", "value": "Blue" },
+      { "key": "Backlight", "value": "RGB" }
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "brand": "KeyTactix"
+  },
+  {
+    "product_id": "P1012",
+    "product_title": "Mini Projector",
+    "product_image": "https://example.com/images/projector.jpg",
+    "category": "Home Theater",
+    "price": 99.99,
+    "description": "Portable mini projector with HDMI and USB support.",
+    "Specification": [
+      { "key": "Resolution", "value": "1080p Supported" },
+      { "key": "Brightness", "value": "5000 lumens" }
+    ],
+    "availability": true,
+    "rating": 4.3,
+    "brand": "ViewCast"
+  }
+]
