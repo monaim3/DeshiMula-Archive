@@ -2,6 +2,13 @@
 @import "tw-animate-css";
 
 @custom-variant dark (&:is(.dark *));
+@media screen and (max-width: 480px) {
+ ul.flex.flex-row.items-center.gap-1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+    
+}
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
